@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+form {
+  background-color: #e6e6e6;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 220px;
+}
+
+    input {
+        padding: 10px;
+        margin: 10px;
+    }
+            
